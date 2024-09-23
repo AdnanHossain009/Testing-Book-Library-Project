@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Adnan Hossain Utsaw</h1>
 
 - 🔭 This is my first Android Project 
@@ -26,6 +28,18 @@
         This project offers an easy-to-use interface for organizing and tracking books, whether they are currently being read, already 
         finished, or saved for future reading.
   </p>
+
+  <h3> Here is a simple view of the app.</h3>
+  
+
+<p align="center">
+  <img src="01.jpg" alt="Description of Home Page" width="200">
+  <img src="02.jpg" alt="Description of All Books" width="200">
+  <img src="03.jpg" alt="Description of All Books" width="200">
+  <img src="04.jpg" alt="Description of All Books" width="200">
+  <img src="05.jpg" alt="Description of All Books" width="200">
+  <img src="06.jpg" alt="Description of All Books" width="200">
+</p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
