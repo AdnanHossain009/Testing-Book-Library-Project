@@ -26,10 +26,9 @@
 
   <br>
   <p> 
-        This project offers an easy-to-use interface for organizing and tracking books, whether they are currently being read, already finished, or saved for future reading.
-        Users can effortlessly categorize their books into sections such as "Currently Reading," "Already Read," and "Wishlist," making it simple to manage their reading habits. 
-        The intuitive design allows for quick access to book details, including authors and page counts, enhancing the overall reading experience. 
-        Additionally, the ability to add, remove, and update book entries ensures that users can keep their library up to date with minimal effort.
+        This project provides an easy-to-use interface for organizing and tracking books, whether they're currently being read, finished, or saved for later.
+        Users can quickly sort books into categories like "Currently Reading", "Wishlist" or "Favourite books" with access to details such as authors and page counts.
+        The system allows for simple addition, removal, and updating of book entries, making library management effortless.
   <br>
     
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
