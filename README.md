@@ -24,23 +24,29 @@
         Additionally, users can <strong>delete books</strong> from these categories, providing a simple way to manage their library.
   </p>
 
-  <p>
-        This project offers an easy-to-use interface for organizing and tracking books, whether they are currently being read, already 
-        finished, or saved for future reading.
+  <br>
+  <p> 
+        This project offers an easy-to-use interface for organizing and tracking books, whether they are currently being read, already finished, or saved for future reading.
+        Users can effortlessly categorize their books into sections such as "Currently Reading," "Already Read," and "Wishlist," making it simple to manage their reading habits. 
+        The intuitive design allows for quick access to book details, including authors and page counts, enhancing the overall reading experience. 
+        Additionally, the ability to add, remove, and update book entries ensures that users can keep their library up to date with minimal effort.
+  <br>
+    
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <br clear="both">
   </p>
 
-  <h3> Here is a simple view of the app.</h3>
+
+  <h3> Here is a simple view of the application.</h3>
   
-
-<p align="center">
-  <img src="01.jpg" alt="Description of Home Page" width="200">
-  <img src="02.jpg" alt="Description of All Books" width="200">
-  <img src="03.jpg" alt="Description of All Books" width="200">
-  <img src="04.jpg" alt="Description of All Books" width="200">
-  <img src="05.jpg" alt="Description of All Books" width="200">
-  <img src="06.jpg" alt="Description of All Books" width="200">
-</p>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-<br clear="both">
+  <p align="center">
+    <img src="01.jpg" alt="Description of Home Page" width="200">
+    <img src="02.jpg" alt="Description of All Books" width="200">
+    <img src="03.jpg" alt="Description of All Books" width="200">
+    <img src="04.jpg" alt="Description of All Books" width="200">
+    <img src="05.jpg" alt="Description of All Books" width="200">
+    <img src="06.jpg" alt="Description of All Books" width="200">
+  </p>
+  
+  
+  
